@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="btn_newGameMassage">New Game</string>
+    <string name="btn_directoryMassage">Directory</string>
+    <string name="btn_musicMassage">Music</string>
+    <string name="btn_videoMassage">Video</string>
+    <string name="btn_callMassage">Call</string>
+    <string name="btn_newGame">New Game</string>
+    <string name="btn_directory">Directory</string>
+    <string name="btn_setting">Setting</string>
+    <string name="btn_backMenu">Back in Menu</string>
+    <string name="btn_music">Music</string>
+    <string name="btn_video">Video</string>
+    <string name="btn_call">Call</string>
+</resources>

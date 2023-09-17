@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="btn_newGameMassage">Новая игра</string>
+    <string name="btn_directoryMassage">Справочник</string>
+    <string name="btn_musicMassage">Музыка</string>
+    <string name="btn_videoMassage">Видео</string>
+    <string name="btn_callMassage">Звонок</string>
+    <string name="btn_newGame">Новая игра</string>
+    <string name="btn_directory">Справочник</string>
+    <string name="btn_setting">Настройки</string>
+    <string name="btn_backMenu">Вернуться в меню</string>
+    <string name="btn_music">Музыка</string>
+    <string name="btn_video">Видео</string>
+    <string name="btn_call">Звонок</string>
+</resources>
